@@ -1,0 +1,4 @@
+F:\GitHub\repository\Readify\ReadifySolution-Shixing-China\ReadifySolution-Shixing-China\bin\Debug\ReadifySolution-Shixing-China.exe
+F:\GitHub\repository\Readify\ReadifySolution-Shixing-China\ReadifySolution-Shixing-China\bin\Debug\ReadifySolution-Shixing-China.pdb
+F:\GitHub\repository\Readify\ReadifySolution-Shixing-China\ReadifySolution-Shixing-China\obj\Debug\ReadifySolution-Shixing-China.exe
+F:\GitHub\repository\Readify\ReadifySolution-Shixing-China\ReadifySolution-Shixing-China\obj\Debug\ReadifySolution-Shixing-China.pdb
